@@ -1,4 +1,4 @@
-# js-validate
+# validate
 纯javascript基于数据的表单验证
 
 ## 使用说明
