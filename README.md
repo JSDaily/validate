@@ -13,7 +13,7 @@ constructor() {
       name: '',
       idcard: '',
       type: '',
-      phone: '15888867998'
+      phone: '13111111111'
     },
     rule: [
       {
